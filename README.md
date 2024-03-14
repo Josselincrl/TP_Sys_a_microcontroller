@@ -31,3 +31,10 @@ Q.8 MISO n'est pas utilisé car le DAC recoit unniquement des données. Aucune d
 Q.3 0805 0603 sont des tailles normés de composants
 
 Q.4 LQFP, SOT-223, SOIC sont des boitiers 
+
+################ Partie firmware #####################
+Q.2 
+"The HAL offers high-level and feature-oriented APIs with a high-portability level. These hide the MCU and peripheral
+complexity from the end-user.
+The LL offers low-level APIs at register level, with better optimization but less portability. These require deep knowledge of
+the MCU and peripheral specifications."
